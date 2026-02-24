@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 // Add Your Session Id Start With DEW-MD Hear
-SESSION_ID: process.env.SESSION_ID || "DEW-MD~H4sIAAAAAAAAA5VU25KiSBD9l3rVGEBAhIiOWEQQRBTv2hv7UEKB1SBgVQHChP++gd09Mw+7s708FXXJPHnOyfwOshxT5KIGaN9BQXAFGeqWrCkQ0MC4jCJEQB+EkEGggcNCmXmv4RFNi3RzaJXYwvR45jndXXACrvcjJkayvk9SIXkBjz4oynOKg98EnNikjmR22CaqzxliEK+aW2ypbaD4LD7X67wiys06mEYTv4BHFxFigrPYLC7oighMXdT4EJOvwS8dxEbeYrm6CIJhiyIvxEdb3042eLTAx2TSu1xui7Yl9XT3NfjKVlxu74FfvcGk3Qxs0zd86xadsCfa5oh/LYOhXdTeIKzzd/gUxxkKnRBlDLPmy7ybvieNF1v1vGybVp/r+33hRW+x0htygr68t9vwPLJw3Dvvgq8Bb+Ul2ib8zEPB6jhu2lZSHbaFu0UaFYqpzMTTcrhzV3ZvSn8F7pNPryT/h/dGn+mWrdSj+XE/cww7rJz8lcuJUqR8hNdH+XT3Ynfow+MXea99pYbrqbNYXRhEw4C9mbpo7pXTXhaHlhrNEI7DdroSavMnfMhK8juUk9184XoNWtyKheUtacPGa1PmKwuPZkjdJux8eM0bhXsTe9gaG3A2mY+g5VMbrkdDN8/rvDpsjGQvvbnk5Bshi66eXr88K0pQ44RAEx59QFCMKSOQ4Tzr9mShD2BYbVBAEHuyC+aZlduRWUa9u+pzqifRV8eRk8tBLBvPil5Xe3296FnIFPQX0AcFyQNEKQptTFlOGg9RCmNEgfbnX32QoTt7163LJgp9EGFC2S4rizSH4aeon4cwCPIyY5smC4xugQjQ+J/biDGcxbSjscwgCS64QsYFMgq0CKYU/SgQERQCjZES/WhaIw873peOJx3Gcx/0wfWpBw6BBlRJkUVloA4GqiYIf9BvdRcVFsW3DDHQBxnsLoMwxKAP0ueTkSgKkjyUBEkW1VH3qtt//ADbxQ4RgzilQAPGXIHV3Vy1c8K3+umkb3Td1Z8Efhb3aZJ3FfycYPl8tKeuVR15KZpw1i5FPsfLczqpjT28RpjnlAnTd/8UBGggufMHtTny/LoX+stkiQLoqdsk5GxnpmIyKBV8M+ntrFyiE80q7i7W27nr2T2jrl268Z09ofU0SkJ/FJVoM3eHpjGOX7psIapwgH5NhsNhPhnI5cC/Z25vhODMvV/kQDYyySid2biq18hrab6TbvztfDxdTq6jltOzfBAnBRy0E+dQvEWbOzeH+1tVESIIhvFh32f7pB9jCz+d1cnW/UYYPafAhz7/JeM77s5s/KP/S4iPsfIvrTneDl2pPAj3O76cBXVp19x9Pzu+cepyo+gjPT0UmcT8Xq2sLPB4/NUHRQpZlJMr0AC9niHoA5KXnXWdLMp/k8nQPceM43lXdQop03+2wxZfEWXwWgBNUBRB5SVREt5v+SQvbEgvQAOCK11sqfN2oxfFhkH22V1A777J7AgefwOB6ktZeAcAAA==",
+SESSION_ID: process.env.SESSION_ID || "DEW-MD~jgwAULcrFbQTCBf",
 // Dew MD Api Site Url
 API_BASE: process.env.API_BASE || "https://api.srihub.store",
 // Dew MD Api Key -- Add This To Your Api Key Form Api Site
@@ -89,5 +89,6 @@ AUTO_RECORDING: process.env.AUTO_RECORDING || "true",
 AUTO_BLOCK: process.env.AUTO_BLOCK || "false"
 // make it true for auto block
 };
+
 
 
